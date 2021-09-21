@@ -13,3 +13,11 @@
 
 
 https://user-images.githubusercontent.com/88501631/134043462-b4ae8c1b-d569-49b2-8a87-fca150940c90.mp4
+
+
+# Used Tech
+• Flutter
+
+• Dart
+
+• Cloud Firestore
